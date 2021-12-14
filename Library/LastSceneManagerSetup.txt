@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/Resources/OdinsTrials/Scenes/MainMenu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Resources/OdinsTrials/Scenes/StartGame.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Resources/OdinsTrials/Scenes/Death.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Resources/OdinsTrials/Scenes/Instructions.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Resources/OdinsTrials/Scenes/Credits.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Resources/OdinsTrials/Scenes/Victory.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
